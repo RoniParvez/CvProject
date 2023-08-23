@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding-top: 10px;
+}
+.hedder{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.Image{
+    height: 200px;
+    width: 200px;
+    border: none;
+    border-radius: 50%;
+}
+.name{
+    color: rgb(99, 71, 253);
+}
+.send{
+    text-decoration: none;
+    margin-top: 205px;
+    font-size: 20px;
+    color: black;
+}
+.number{
+    margin-top: 10px;
+}
+.contact{
+    margin-right: 50px;
+}
+.First{
+    border: 4px rgb(5, 197, 245) solid;
+    margin: 5px;
+}
+
+.personal_info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.personal{
+    font-size: 20px;
+    color:rgb(99, 71, 253); 
+}
+.common_hr{
+    border: 1px rgb(5, 197, 245) solid;
+    margin-bottom: 20px;
+}
+
+.address{
+    /* margin-right: 0px; */
+}
+.text_color{
+    color: rgb(99, 71, 253);
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.Study{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.institute{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.first_scl{
+    margin-right: 80px;
+
+}
+.education{
+   margin-left: 30px;
+}
+.second_school{
+   margin-left: 60px;
+
+}
+footer{
+    background-color: blueviolet !important;
+    margin-top: -18px;
+}
+
+.link{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+.Design{
+    text-decoration: none;
+    padding: 10px;
+}
+.copy_write{
+    text-align: center;
+
+}
+.contact{
+    margin-right: 30px;
+}
